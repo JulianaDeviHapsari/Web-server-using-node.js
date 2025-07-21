@@ -1,0 +1,17 @@
+{
+  "name": "web-server",
+  "version": "1.0.0",
+  "description": "web server",
+  "keywords": [
+    "web",
+    "server"
+  ],
+  "license": "ISC",
+  "author": "Devi",
+  "type": "commonjs",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
